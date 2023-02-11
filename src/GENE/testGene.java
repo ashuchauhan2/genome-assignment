@@ -6,9 +6,6 @@ package GENE;
  * This class will test each method implemented from the Genome interface and determine whether
  * they have been implemented successfully or not.
  *
- * @author Ashu Chauhan #7001571
- * @version 1.0 (03.11.2022)
- * @
  * */
 
 public class testGene {
